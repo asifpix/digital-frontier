@@ -38,3 +38,18 @@
 - 40:40 - Adjust strip colum width.
 
 ### Class 04 - Creating Multiple Headers and Custom Strip - 49:01
+- 01:20 - Get idea about web site header.
+- 05:00 - Hamburger menu.
+- 07:00 - Creating header.
+- 34:15 - Creating hamburger menu.
+- 42:20 - Customizing hamburger menu panel.
+- 46:50 - Promotion bar.
+- 47:00 - Assignment (Create header).
+
+### Class 05 – Hero Sections, Anchoring & Collaboration in Wix
+### Class 06 – Client Requirement to Functional Design, Implementing Wix Gallery, Slider & Repeater
+### Class 07 – Create Dynamic Number Counter with Dev Mode & FAQ in Wix
+### Class 08 – Blog, Contact Form Basics, Map & Popups/Lightbox Explained
+### Class 09 – Advanced Forms in Wix: Take Your Contact Forms to the Next Level
+### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table
+### Class 11 – Wix Mobile version design
