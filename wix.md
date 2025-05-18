@@ -1,4 +1,5 @@
 ## WIX
+
 ### Class 01 - Getting Started wth Wix - 20:28
 - 01:16 - What is wix?
 - 01:50 - What is CMS?
@@ -23,3 +24,17 @@
 - 32:30 - Know about Site design panel. Where you can set default typography or colors or etc.
 - 36:40 - Page Background.
 - 37:20 - About wix app market.
+
+### Class 03 - Wix Foundations: Create Pages, Add Menus and use Strips - 46:15
+- 00:30 - Getting Pioneer Badge. 
+- 02:15 - Creating a new page.
+- 04:45 - Deleting a page.
+- 08:25 - Creating menu.
+- 11:15 - All about button and link.
+- 21:20 - Menu item hover options.
+- 26:45 - Introducing Strip.
+- 31:30 - Strip alignment.
+- 37:00 - Add columns into strip.
+- 40:40 - Adjust strip colum width.
+
+### Class 04 - Creating Multiple Headers and Custom Strip - 49:01
