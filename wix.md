@@ -79,7 +79,12 @@
 - 1:36:00 - Assignment (Create home page).
 
 ### Class 07 – Create Dynamic Number Counter with Dev Mode & FAQ in Wix - 44:03
--  - 
+- 02:00 - Creating animated counter.
+- 03:30 - Enable Dev Mode.
+- 22:00 - FAQ section / Accordion 
+- 26:00 - Change Language
+- 41:50 - Assignment (Animated Counter and Accordion).
+
 ### Class 08 – Blog, Contact Form Basics, Map & Popups/Lightbox Explained - 1:06:41
 ### Class 09 – Advanced Forms in Wix: Take Your Contact Forms to the Next Level - 39:44
 ### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table - 41:11
