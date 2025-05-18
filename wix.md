@@ -46,10 +46,21 @@
 - 46:50 - Promotion bar.
 - 47:00 - Assignment (Create header).
 
-### Class 05 – Hero Sections, Anchoring & Collaboration in Wix
-### Class 06 – Client Requirement to Functional Design, Implementing Wix Gallery, Slider & Repeater
-### Class 07 – Create Dynamic Number Counter with Dev Mode & FAQ in Wix
-### Class 08 – Blog, Contact Form Basics, Map & Popups/Lightbox Explained
-### Class 09 – Advanced Forms in Wix: Take Your Contact Forms to the Next Level
-### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table
-### Class 11 – Wix Mobile version design
+### Class 05 – Hero Sections, Anchoring & Collaboration in Wix - 45:46
+- 00:00 - Know about hero section.
+- 05:10 - Creating pages.
+- 06:05 - Get colors from CSS overview.
+- 17:00 - Creating hero section.
+- 28:40 - Creating another page section.
+- 35:25 - Assignment (Creating and customizing section).
+- 36:20 - Tip.
+- 35:50 - Landing Page Anchoring (One page).
+- 42:20 - Class overview.
+- 43:00 - Site Access to instructor. (Add collborator to digitalfrontier2496[at]gmail.com).
+
+### Class 06 – Client Requirement to Functional Design, Implementing Wix Gallery, Slider & Repeater - 1:36:58
+### Class 07 – Create Dynamic Number Counter with Dev Mode & FAQ in Wix - 44:03
+### Class 08 – Blog, Contact Form Basics, Map & Popups/Lightbox Explained - 1:06:41
+### Class 09 – Advanced Forms in Wix: Take Your Contact Forms to the Next Level - 39:44
+### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table - 41:11
+### Class 11 – Wix Mobile version design - 49:09
