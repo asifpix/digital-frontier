@@ -65,7 +65,7 @@
 - 20:00 - Getting design inspiration.
 - 22.05 - Collecting desing resources like images or fonts.
 - 27:00 - Add Slideshow.
-- 32:200 - Adding text in different slides.
+- 32:20 - Adding text in different slides.
 - 34:10 - Add a single text in all 3 slides.
 - 37:35 - Add slide image overlay color.
 - 46:50 - Upload custom fonts.
