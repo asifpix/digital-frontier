@@ -59,7 +59,27 @@
 - 43:00 - Site Access to instructor. (Add collborator to digitalfrontier2496[at]gmail.com).
 
 ### Class 06 – Client Requirement to Functional Design, Implementing Wix Gallery, Slider & Repeater - 1:36:58
+- 01:20 - Client requirement and conversation.
+- 13:00 - Creating promt with client requirement in chat gpt.
+- 17:30 - Creating 3 pages and design reference.
+- 20:00 - Getting design inspiration.
+- 22.05 - Collecting desing resources like images or fonts.
+- 27:00 - Add Slideshow.
+- 32:200 - Adding text in different slides.
+- 34:10 - Add a single text in all 3 slides.
+- 37:35 - Add slide image overlay color.
+- 46:50 - Upload custom fonts.
+- 54:40 - Grouping selected elements.
+- 59:00 - All about repeater.
+- 1:11:00 - All about gallery.
+- 1:24:20 - Enable download image option from gallery.
+- 1:25:00 - Enable download image option from gallery.
+- 1:25:10 - Gallery image overlay.
+- 1:34:00 - Class overview.
+- 1:36:00 - Assignment (Create home page).
+
 ### Class 07 – Create Dynamic Number Counter with Dev Mode & FAQ in Wix - 44:03
+-  - 
 ### Class 08 – Blog, Contact Form Basics, Map & Popups/Lightbox Explained - 1:06:41
 ### Class 09 – Advanced Forms in Wix: Take Your Contact Forms to the Next Level - 39:44
 ### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table - 41:11
