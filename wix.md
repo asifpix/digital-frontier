@@ -107,4 +107,13 @@
 - 39:00 - Assignment (Create a basic health care site with multistep form).
 
 ### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table - 41:11
+- 00:45 - What is embed code? 
+- 01:50 - Embedding a code from outside of wix (Jotform).
+- 06:30 - Embed a full website.
+- 09:10 - Embed a video.
+- 10:00 - Add video gallery or video player.
+- 17:00 - Creating sub pages.
+- 24:15 - Creating CMS table.
+- 40:00 - Assignment (Full website using all elements).
+
 ### Class 11 – Wix Mobile version design - 49:09
