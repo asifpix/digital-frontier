@@ -86,6 +86,25 @@
 - 41:50 - Assignment (Animated Counter and Accordion).
 
 ### Class 08 – Blog, Contact Form Basics, Map & Popups/Lightbox Explained - 1:06:41
+- 01:20 - Creating blog.
+- 14:50 - Add blog section in home page.
+- 16:15 - Add contact form.
+- 28:15 - Add client as a collaborator.
+- 29:40 - Transfer ownership to a client.
+- 31:15 - Change form settings for submission.
+- 36:20 - Assignment (Create a form, add additional fields make it functional).
+- 40:00 - Add google map
+- 45:00 - Popup / Lightbox
+- 54:00 - Hamburger Menu using lightbox
+
 ### Class 09 – Advanced Forms in Wix: Take Your Contact Forms to the Next Level - 39:44
+- 01:20 - Create multi step form.
+- 11:30 - Display message after form submit.
+- 13:00 - Redirect to a url after form submit.
+- 14:50 - Notification and automation.
+- 22:00 - Send the email to submitter with downloadable file.
+- 35:00 - Conditions and rules.
+- 39:00 - Assignment (Create a basic health care site with multistep form).
+
 ### Class 10 – Wix Embed, Subpages, VideoBox & CMS Table - 41:11
 ### Class 11 – Wix Mobile version design - 49:09
