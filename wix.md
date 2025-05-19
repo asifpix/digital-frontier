@@ -117,3 +117,7 @@
 - 40:00 - Assignment (Full website using all elements).
 
 ### Class 11 – Wix Mobile version design - 49:09
+- 03:20 - Checking mobile version of site.
+- 05:00 - Hide Elements in mobile.
+- 08:30 - Quick action bar.
+- 45:40 - Play background video on mobile (wix studio).
