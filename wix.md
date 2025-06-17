@@ -122,7 +122,7 @@
 - 08:30 - Quick action bar.
 - 45:40 - Play background video on mobile (wix studio).
 
-### Class 12 – Wix Store (e-commerce) & revisions. - 52:52
+### Class 12 – Wix Store (e-commerce) & revisions. - 52:38
 - 00:00 - Class Intro.
 - 03:00 - Set Hero section under the header section.
 - 08:50 - Add different background color to different page header.
