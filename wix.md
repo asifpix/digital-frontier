@@ -142,3 +142,23 @@
 - 44:40 - Add categorized sub-page.
 - 45:42 - Turn on Auto Save.
 - 48:20 - Add Grid Product Gallery widget and show products of a single category.
+
+### Class 13 – Wix Store (e-commerce) & wix tabs - 52:52
+- 02:00 - Add product additional info.
+- 03:00 - Add product variants like size and color.
+- 04:10 - Add pricing for different product variant.
+- 07:20 - Create coupon for discount.
+- 14:30 - All about Grid Gallery Widget.
+- 15:30 - Grid Gallery -> Display
+- 17:00 - Grid Gallery -> Settings
+- 20:10 - Grid Gallery -> Layout
+- 24:30 - Grid Gallery -> Filter
+- 26:40 - Grid Gallery -> Text
+- 27:10 - Grid Gallery -> QuickView
+- 19:00 - Add popular products to a page.
+- 31:00 - Add a single product widget.
+- 34:00 - Customizing single product page.
+- 35:30 - Interactive -> Tab (All about tab widget).
+- 39:20 - Customizing Tab interface.
+- 49:00 - Tab responsiveness.
+- 51:00 - Announcement (Class XI project submission).
