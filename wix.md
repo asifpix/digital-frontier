@@ -121,3 +121,24 @@
 - 05:00 - Hide Elements in mobile.
 - 08:30 - Quick action bar.
 - 45:40 - Play background video on mobile (wix studio).
+
+### Class 12 – Wix Store (e-commerce) & revisions. - 52:52
+- 00:00 - Class Intro.
+- 03:00 - Set Hero section under the header section.
+- 08:50 - Add different background color to different page header.
+- 12:30 - Add header background color on page scroll.
+- 13:20 - Header Scroll Settings.
+- 16:00 - E-Commerce client requirement (wix store).
+- 18:40 - Add wix store to the site.
+- 20:55 - Account settings page.
+- 21:00 - Shop page and product filter.
+- 24:20 - Manage Products.
+- 24:50 - Change currency BDT to USD and Region.
+- 26:30 - Add a new physical product.
+- 28:50 - Ribbon.
+- 31:00 - Product pricing.
+- 41:40 - Add product category.
+- 42:10 - Assign products category.
+- 44:40 - Add categorized sub-page.
+- 45:42 - Turn on Auto Save.
+- 48:20 - Add Grid Product Gallery widget and show products of a single category.
