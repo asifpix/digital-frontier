@@ -179,4 +179,17 @@
 - 54:00 - Assignment (Create a basic e-commerce website).
 
 ### Class 15 – Wix Booking, Wix Plan table - 53:13
-- Comming Soon
+- 00:00 - Class Overview.
+- 01:15 - Sample client requirement.
+- 03:00 - Add a single booking widget.
+- 04:15 - Know about booking dashboard.
+- 05:40 - Add booking services.
+- 10:30 - Create packages.
+- 30:00 - Set price plans.
+- 38:20 - Add checkout link on custom pricing table.
+
+### Class 16 – Wix Event Setup Guide - 42:14
+- Comming soon.
+  
+### Class 17 – Wix Restaurant, Online Food Order, Table Reservation - 43:21
+- Comming soon.
