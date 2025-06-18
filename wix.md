@@ -189,7 +189,17 @@
 - 38:20 - Add checkout link on custom pricing table.
 
 ### Class 16 – Wix Event Setup Guide - 42:14
-- Comming soon.
+- 00:00 - Difference between Booking and Event.
+- 06:10 - Add event to the site.
+- 07:10 - Event Dashboard.
+- 08:50 - Add Ticketed Event.
+- 13:50 - Create Tickets.
+- 19:50 - Designing the ticket PDF.
+- 23:00 - Customizing checkout form.
+- 25:30 - Create seating map.
+- 30:00 - Assign tickets to the seats.
+- 36:20 - Create RSVP event.
+- 41:00 - Announcement
   
 ### Class 17 – Wix Restaurant, Online Food Order, Table Reservation - 43:21
 - Comming soon.
