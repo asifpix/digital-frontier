@@ -162,3 +162,21 @@
 - 39:20 - Customizing Tab interface.
 - 49:00 - Tab responsiveness.
 - 51:00 - Announcement (Class XI project submission).
+
+### Class 14 – Wix Store (e-commerce), wix plan, wix chat - 55:28
+- 04:20 - Category Page Options.
+- 07:00 - Filter Options.
+- 07:50 - Filter Sorting.
+- 11:00 - Add filter in sub-page widgets.
+- 11:30 - Cart Page.
+- 12:20 - Thank You Page.
+- 15:00 - Payment Method.
+- 27:20 - Know about wix plan.
+- 32:50 - Grid Gallery in responsive mode.
+- 34:00 - Add Wix Chat.
+- 36:00 - Chat Form.
+- 36:30 - Chat Automation.
+- 54:00 - Assignment (Create a basic e-commerce website).
+
+### Class 15 – Wix Booking, Wix Plan table - 53:13
+- Comming Soon
