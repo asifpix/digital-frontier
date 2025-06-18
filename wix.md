@@ -202,4 +202,12 @@
 - 41:00 - Announcement
   
 ### Class 17 – Wix Restaurant, Online Food Order, Table Reservation - 43:21
-- Comming soon.
+- 00:00 - Overview of restaurant.
+- 02:00 - Add restaurant order & table reservation apps.
+- 03:30 - Add restaurant menu.
+- 08:30 - Add item variant.
+- 17:00 - Add table reservation to the site.
+- 18:10 - Floor and Table plan.
+- 25:50 - Create table reservation manually.
+- 30:40 - Add restaturant order.
+- 38:40 - Order management.
