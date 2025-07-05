@@ -211,3 +211,15 @@
 - 25:50 - Create table reservation manually.
 - 30:40 - Add restaturant order.
 - 38:40 - Order management.
+  
+### Class 18 – Class 18 – Wix Cms, Dynamic Pages, Database - 37:34
+- 00:00 - What is CMS?
+- 03:45 - What is dynamic page?
+- 05:30 - Start with a preset.
+- 09:10 - Services Dataset (Dashboard > CMS > Services).
+- 10:10 - Adding field to the table.
+- 12:00 - Display field value to a page.
+- 14:40 - Add dynamic pages.
+- 18:30 - Connect repeater field to CMS.
+- 27:50 - Rich content.
+- 34:05 - Class revision.
