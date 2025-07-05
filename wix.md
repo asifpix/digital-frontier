@@ -212,7 +212,7 @@
 - 30:40 - Add restaturant order.
 - 38:40 - Order management.
   
-### Class 18 – Class 18 – Wix Cms, Dynamic Pages, Database - 37:34
+### Class 18 – Wix Cms, Dynamic Pages, Database - 37:34
 - 00:00 - What is CMS?
 - 03:45 - What is dynamic page?
 - 05:30 - Start with a preset.
@@ -223,3 +223,11 @@
 - 18:30 - Connect repeater field to CMS.
 - 27:50 - Rich content.
 - 34:05 - Class revision.
+  
+### Class 19 – Wix Cms, CSV to CMS - 25:46
+- 00:00 - Class overview.
+- 01:30 - Start by adding content.
+- 03:05 - Import from CSV.
+- 05:00 - Adding dynamic blank page.
+- 13:15 - Adding dynamic list page.
+- 19:00 - Adding gallery field.
